@@ -1,0 +1,18 @@
+{
+  "name": "sss74-syntax",
+  "theme": "syntax",
+  "version": "0.1.1",
+"description": "หวยจ่ายจริง✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
+"keywords": [
+"หวยจ่ายจริง",
+"การสมัครเว็บหวย",
+"lottovip เข้าระบบ",
+"melotto เครดิตฟรี 200",
+"ruaydee รวยดี"
+],
+  "repository": "https://github.com/setteebet/sss74-syntax.git",
+  "license": "MIT",
+  "engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
